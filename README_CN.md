@@ -6,7 +6,7 @@
 
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Marketplace-blueviolet)](https://claude.ai/code)
 [![Plugins](https://img.shields.io/badge/plugins-3-green)](#里面有什么)
-[![Status](https://img.shields.io/badge/status-v0.1.2-orange)](#)
+[![Status](https://img.shields.io/badge/status-v0.1.3-orange)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 brainforge 是一个 Claude Code plugin marketplace。
@@ -16,7 +16,7 @@ brainforge 是一个 Claude Code plugin marketplace。
 
 **Other Languages / 其他语言：**
 
-[English](README.md)
+[English](README.md) · [日本語](README_JA.md) · [Español](README_ES.md) · [Deutsch](README_DE.md) · [한국어](README_KO.md) · [Português](README_PT.md) · [Русский](README_RU.md)
 
 </div>
 

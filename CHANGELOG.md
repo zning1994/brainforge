@@ -5,6 +5,17 @@ All notable changes to the brainforge marketplace will be documented in this fil
 Format based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 This file tracks changes to the marketplace itself (manifest, docs, layout) — not to individual plugins. For plugin-level changes, see each plugin's own CHANGELOG.
 
+## [0.1.3] - 2026-04-23
+
+### Added
+
+- Six additional README translations: Japanese (`README_JA.md`), Spanish (`README_ES.md`), German (`README_DE.md`), Korean (`README_KO.md`), Portuguese (`README_PT.md`), Russian (`README_RU.md`)
+- Language switcher in every README now lists all 7 other available languages
+
+### Changed
+
+- `marketplace.json` metadata version: `0.1.2` → `0.1.3`
+
 ## [0.1.2] - 2026-04-23
 
 ### Added
@@ -44,6 +55,7 @@ This file tracks changes to the marketplace itself (manifest, docs, layout) — 
 - `brainforge-autoresearch` was renamed from `openclaw-autoresearch` as part of this launch; GitHub auto-redirects the old URL
 - Each plugin lives in its own GitHub repo; brainforge is a lightweight manifest-only aggregator
 
+[0.1.3]: https://github.com/zning1994/brainforge/compare/v0.1.2...v0.1.3
 [0.1.2]: https://github.com/zning1994/brainforge/compare/v0.1.1...v0.1.2
 [0.1.1]: https://github.com/zning1994/brainforge/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/zning1994/brainforge/releases/tag/v0.1.0

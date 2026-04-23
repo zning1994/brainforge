@@ -6,7 +6,7 @@
 
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Marketplace-blueviolet)](https://claude.ai/code)
 [![Plugins](https://img.shields.io/badge/plugins-3-green)](#whats-inside)
-[![Status](https://img.shields.io/badge/status-v0.1.2-orange)](#)
+[![Status](https://img.shields.io/badge/status-v0.1.3-orange)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A Claude Code plugin marketplace.
@@ -16,7 +16,7 @@ Aggregates skills and plugins I've written and actually use, so others can insta
 
 **Other Languages / 其他语言：**
 
-[简体中文](README_CN.md)
+[简体中文](README_CN.md) · [日本語](README_JA.md) · [Español](README_ES.md) · [Deutsch](README_DE.md) · [한국어](README_KO.md) · [Português](README_PT.md) · [Русский](README_RU.md)
 
 </div>
 
