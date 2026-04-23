@@ -6,13 +6,13 @@
 
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Marketplace-blueviolet)](https://claude.ai/code)
 [![Plugins](https://img.shields.io/badge/plugins-3-green)](#里面有什么)
-[![Status](https://img.shields.io/badge/status-v0.1.0-orange)](#)
+[![Status](https://img.shields.io/badge/status-v0.1.1-orange)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 brainforge 是一个 Claude Code plugin marketplace。
 聚合一些我自己写的、也确实在用的 skill/plugin，让别人可以一行命令装上用。
 
-[安装](#安装) · [里面有什么](#里面有什么) · [贡献 / 反馈](#贡献--反馈)
+[安装](#安装) · [里面有什么](#里面有什么) · [贡献 / 反馈](#贡献--反馈) · [Changelog](CHANGELOG.md) · [Releases](https://github.com/zning1994/brainforge/releases)
 
 </div>
 
