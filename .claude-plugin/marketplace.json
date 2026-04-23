@@ -33,7 +33,7 @@
       "description": "Autonomous prompt optimization for AI agent skills. Runs controlled experiments using the Karpathy autoresearch pattern.",
       "source": {
         "source": "url",
-        "url": "https://github.com/zning1994/openclaw-autoresearch.git",
+        "url": "https://github.com/zning1994/brainforge-autoresearch.git",
         "ref": "main"
       }
     }
