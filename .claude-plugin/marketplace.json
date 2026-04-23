@@ -1,0 +1,41 @@
+{
+  "name": "brainforge",
+  "owner": {
+    "name": "zning",
+    "email": "zhn038@gmail.com",
+    "url": "https://github.com/zning1994"
+  },
+  "metadata": {
+    "description": "A forge for Claude Code skills and plugins.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "cooking-skill",
+      "description": "Help users decide what to cook and how to cook it. Default to Chinese home cooking with practical technique guidance.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/zning1994/cooking-skill.git",
+        "ref": "main"
+      }
+    },
+    {
+      "name": "docs-organization",
+      "description": "Organize project documentation by size, audience, and freshness. Slim bloated CLAUDE.md/AGENTS.md and decide where docs should live.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/zning1994/docs-organization.git",
+        "ref": "main"
+      }
+    },
+    {
+      "name": "brainforge-autoresearch",
+      "description": "Autonomous prompt optimization for AI agent skills. Runs controlled experiments using the Karpathy autoresearch pattern.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/zning1994/openclaw-autoresearch.git",
+        "ref": "main"
+      }
+    }
+  ]
+}
